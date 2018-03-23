@@ -1,0 +1,11 @@
+Word2Vec Avg LogReg:
+Test accuracy: 0.540506329114
+
+TfIdf LogReg:
+Test accuracy: 0.750632911392
+
+Word2Vec Avg SGD:
+Test accuracy: 0.289873417722
+
+TfIdf SGD:
+Test accuracy: 0.739240506329
